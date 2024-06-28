@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anirban Chatterjee</h1>
-<h3 align="center">An Electronics and Computer Engineer from ITER Siksha O Anusandhan</h3>
+<h3 align="center">I'm an aspiring Electrical and Computer Engineer with a passion for coding and hardware design. While I don't have formal job experience yet, I've spent countless hours honing my skills and working on various projects. Here's a bit more about me: </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrix2099&label=Profile%20views&color=0e75b6&style=flat" alt="arrix2099" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arrix2099](https://github.com/Arrix2099)
 
-- 💬 Ask me about **Java, C, C++, Python, Golang**
+- 💬 Ask me about **Java, C, C++, Python, Golang, Multisim**
 
 - 📫 How to reach me **ani.kol2099@gmail.com**
 
