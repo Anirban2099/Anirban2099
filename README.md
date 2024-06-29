@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arrix2099](https://github.com/Arrix2099)
 
-- 💬 Ask me about **Java, C, C++, Python, Golang**
+- 💬 Ask me about **Java, C, C++, Python, Golang, NI Multisim**
 
 - 📫 How to reach me **ani.kol2099@gmail.com**
 
