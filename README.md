@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arrix2099](https://github.com/Arrix2099)
 
-- 🔓 When I code I rely on: **Java, C, C++, Python, Golang, NI Multisim & Matlab**
+- 🔓 When I code I rely on: **Java, C++, Python, Golang, NI Multisim & Matlab**
 
 - 📫 How to reach me **ani.kol2099@gmail.com**
 
