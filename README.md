@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Anirban Chatterjee</h1>
+<h1 align="center">Hello 🦉, I'm Anirban Chatterjee</h1>
 <h3 align="center">I'm an aspiring Electrical and Computer Engineer with a passion for coding and hardware design. While I don't have formal job experience yet, I've spent countless hours honing my skills and working on various projects. Here's a bit more about me:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrix2099&label=Profile%20views&color=0e75b6&style=flat" alt="arrix2099" /> </p>
