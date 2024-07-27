@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arrix2099&color=green" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arrix2099&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
