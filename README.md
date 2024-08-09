@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arrix2099&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anirban2099&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
