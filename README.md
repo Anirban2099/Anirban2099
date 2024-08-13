@@ -1,4 +1,5 @@
-<h2 align="left">Hello World,</h2> <img src="Fire.gif" align="center" alt="GitHub Fire" width="180" height"180" />
+<h2 align="left">Hello World,</h2> 
+<img src="Fire.gif" align="center" alt="GitHub Fire" width="180" height"180" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrix2099&label=Profile%20views&color=red&style=flat" alt="arrix2099" /> </p>
 
