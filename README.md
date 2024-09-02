@@ -1,5 +1,4 @@
 <h2 align="left">Hello World,</h2> 
-<p align="center"><img src="anime.gif" align="center" alt="GitHub Fire" width="280" height"180" > </p>
 
 - 🪶 I’m currently learning **GO, JavaScript**
 
