@@ -1,8 +1,6 @@
 <h2 align="left">Hello World,</h2> 
 <p align="center"><img src="anime.gif" align="center" alt="GitHub Fire" width="280" height"180" > </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arrix2099&label=Profile%20views&color=red&style=flat" alt="arrix2099" /> </p>
-
 - 🪶 I’m currently learning **GO, JavaScript**
 
 - 🪶 All of my projects are available at [https://github.com/Arrix2099](https://github.com/Arrix2099)
