@@ -1,7 +1,5 @@
 <h2 align="left">Hello World,</h2> 
 
-<img src="https://komarev.com/ghpvc/?username=Anirban2099&style=flat-square&color=red" alt=""/>
-
 - 🪶 All of my projects are available at [https://github.com/Arrix2099](https://github.com/Arrix2099)
 
 - 🪶 How to reach me **ani.kol2099@gmail.com**
